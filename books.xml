@@ -1,4 +1,4 @@
-<?xml version="1.0"encoding="UTF-8"?>
+<?xml version="1.0"?>
 	<bookStore>
 		<books category="technical">
 			<books_no>1</books_no>
@@ -35,4 +35,4 @@
 			<price>700</price>
 			<year>2001</year>
 		</books>
-	</bookstore>
+	</bookStore>
