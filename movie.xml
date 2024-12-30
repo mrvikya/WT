@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+	<movieInfo>
+		<movie category="technical">
+			<movie_no>1</movie_no>
+			<movie_name>Hacker</movie_name>
+			<Actor_name>Ajay Devgan</Actor_name>
+			<release_year>2014</release_year>
+		</movie>
+		<movie category="Action">
+			<movie_no>2</movie_no>
+			<movie_name>Pushpa</movie_name>
+			<Actor_name>Allu Arjun</Actor_name>
+			<release_year>2024</release_year>
+		</movie>
+		<movie category="Action">
+			<movie_no>3</movie_no>
+			<movie_name>KGF</movie_name>
+			<Actor_name>Rocky</Actor_name>
+			<release_year>2023</release_year>
+		</movie>
+	</movieInfo>
